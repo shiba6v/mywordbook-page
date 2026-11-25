@@ -7,3 +7,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button:hover{transform:none}}
 
 .button-play{background:white;color:var(--green)!important;border:2px solid var(--green);box-shadow:none}.button-play:hover{background:#eef5f3}
+.button-play{margin-top:14px}
